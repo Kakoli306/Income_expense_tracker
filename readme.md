@@ -1,6 +1,6 @@
 Condition: First things, need have to run this project, you have to run this command line 
 <br/>
-"composer update"
+composer update
  <br/>
               php artisan key:generate
 ## About tracker system

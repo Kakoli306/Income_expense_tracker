@@ -1,4 +1,4 @@
-
+Condition: First things, need have to run this project, you have to run this command line "composer update"
 ## About tracker system
 
 First of all, you get a login page with user name and password.In this page's right side there have register and login button.
